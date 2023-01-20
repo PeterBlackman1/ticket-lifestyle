@@ -36,21 +36,27 @@ This is the login screen for end-user's to log into when creating tickets.
 
 <p>
   
-<img width="1440" alt="Screen Shot 2023-01-18 at 9 52 34 AM" src="https://user-images.githubusercontent.com/120864279/213221869-10b64346-7d3e-479c-a2ea-c33a9a60d8cb.png">
-  
+<img width="1440" alt="Screen Shot 2023-01-20 at 3 34 38 PM" src="https://user-images.githubusercontent.com/120864279/213818481-54d14c88-6944-48e4-84f3-984282576574.png">
+
+<p>
+
 Opening a ticket and filling out the information so it can be sent to the right department after ticket is sent.
 
 <p>
 
-  <img width="1440" alt="Screen Shot 2023-01-18 at 10 20 40 AM" src="https://user-images.githubusercontent.com/120864279/213233341-df86787b-6535-4dff-ab9a-65cf5348d452.png">
+<img width="1440" alt="Screen Shot 2023-01-20 at 3 34 53 PM" src="https://user-images.githubusercontent.com/120864279/213818499-40cbccf5-f23b-4ffe-8ffc-e93cb9ab004a.png">
 
-  This is my screen after I submit a ticket.
-</p>
+<p>
 
-<img width="1440" alt="Screen Shot 2023-01-18 at 4 14 21 PM" src="https://user-images.githubusercontent.com/120864279/213307038-f8b8221c-b2d7-4307-9356-264b728fcb2d.png">
+This is my screen after I submit a ticket.
 
-I logged back into the admin panel and these are tickets that's in my inbox.
+<p>
 
+<img width="1440" alt="Screen Shot 2023-01-20 at 5 00 53 PM" src="https://user-images.githubusercontent.com/120864279/213820891-03530080-0f26-40da-9765-fcf999e67d81.png">
+
+<p>
+
+After I log back into osTicket as an agent. I see I now have a ticket waiting to be opened or assigned.
 
 <p>
 
