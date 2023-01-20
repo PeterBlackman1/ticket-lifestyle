@@ -82,6 +82,10 @@ Customer response back saying that his computer is only showing a black screen w
   
 <p>
 
+  <img width="1440" alt="Screen Shot 2023-01-20 at 5 32 50 PM" src="https://user-images.githubusercontent.com/120864279/213823274-1376b805-2075-420c-8cf0-ef5ba5e3e692.png">
+
+Ongoing conversation between end-user and help desk support. The customer is pleased to have found a solution to their problem.
+
 <p>
 
 <p>
