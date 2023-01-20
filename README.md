@@ -59,7 +59,11 @@ This is my screen after I submit a ticket.
 After I log back into osTicket as an agent. I see I now have a ticket waiting to be opened or assigned.
 
 <p>
+  
+<img width="1440" alt="Screen Shot 2023-01-20 at 5 05 32 PM" src="https://user-images.githubusercontent.com/120864279/213821130-00279ff3-28b4-432f-9825-4684af3e130b.png">
 
+I opened the ticket and assigned it to Level II support.
+  
 <p>
   
 <p>
