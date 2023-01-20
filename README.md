@@ -65,6 +65,20 @@ After I log back into osTicket as an agent. I see I now have a ticket waiting to
 I opened the ticket and assigned it to Level II support.
   
 <p>
+
+  <img width="1440" alt="Screen Shot 2023-01-20 at 5 12 01 PM" src="https://user-images.githubusercontent.com/120864279/213821769-26e9ca5d-8c9e-40ae-9467-d842550786ee.png">
+
+<p>
+
+Responding to customer from the support department trying to troubleshoot any problems.
+
+ <p>
+
+<img width="1440" alt="Screen Shot 2023-01-20 at 5 15 35 PM" src="https://user-images.githubusercontent.com/120864279/213821802-cc6195d6-0dfe-486d-9828-75781caa36e9.png">
+
+<p>
+
+Customer response back saying that his computer is only showing a black screen when turned on.
   
 <p>
 
