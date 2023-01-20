@@ -88,6 +88,19 @@ Ongoing conversation between end-user and help desk support. The customer is ple
 
 <p>
 
+ <img width="1440" alt="Screen Shot 2023-01-20 at 5 35 19 PM" src="https://user-images.githubusercontent.com/120864279/213823804-35e95f04-1713-4a95-9bce-81f19bc861e4.png">
+
+<p>
+
+After solving the customers issue I can change the ticket status to resolved or closed to finish.
+<p>
+
+<img width="1440" alt="Screen Shot 2023-01-20 at 5 35 34 PM" src="https://user-images.githubusercontent.com/120864279/213823817-d3cb3f02-d47a-498c-b3de-c5a38b5d16cd.png">
+
+<p>
+
+No current tickets to be opened now that I'm done with the ticket.
+ 
 <p>
 
 <p>
