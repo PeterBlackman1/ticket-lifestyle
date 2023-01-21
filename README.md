@@ -103,6 +103,24 @@ No current tickets to be opened now that I'm done with the ticket.
  
 <p>
 
+<img width="1440" alt="Screen Shot 2023-01-21 at 10 13 48 AM" src="https://user-images.githubusercontent.com/120864279/213876161-adf02a96-e40b-4673-9a70-afeedea5bba4.png">
+
+<p>
+
+Creating an example ticket that shows the mobile/online banking system is down.
+
+<p>
+
+<img width="1440" alt="Screen Shot 2023-01-21 at 10 14 58 AM" src="https://user-images.githubusercontent.com/120864279/213876171-e43c39bd-7622-4d20-b54d-9e69ac605f07.png">
+
+<p>
+
+When I log back into the agent panel I see the ticket here. 
+
+<p>
+
+
+
 <p>
 <p>
 
