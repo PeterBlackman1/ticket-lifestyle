@@ -140,7 +140,20 @@ After updating information this is the way the ticket looks.
 <p>
 
 Logged into system admin account to work on ticket.
+
 <p>
 
+<img width="1440" alt="Screen Shot 2023-01-21 at 10 57 09 AM" src="https://user-images.githubusercontent.com/120864279/213877965-47f94be2-6ae9-4594-b90e-920a3fe56fb7.png">
+
+<p>
+
+<p>
+
+<img width="1440" alt="Screen Shot 2023-01-21 at 11 03 50 AM" src="https://user-images.githubusercontent.com/120864279/213878262-2cc5e319-8bd9-48cc-ae3d-96d615d7f613.png">
+
+<p>
+
+Finished conversation with end-user and agent. Agent was able to resolve to situation and close to ticket after done.
+  
 </p>
 <br />
