@@ -147,6 +147,8 @@ Logged into system admin account to work on ticket.
 
 <p>
 
+Communicating with customer about the issue and how we are working to resolve it.
+
 <p>
 
 <img width="1440" alt="Screen Shot 2023-01-21 at 11 03 50 AM" src="https://user-images.githubusercontent.com/120864279/213878262-2cc5e319-8bd9-48cc-ae3d-96d615d7f613.png">
