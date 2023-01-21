@@ -119,7 +119,19 @@ When I log back into the agent panel I see the ticket here.
 
 <p>
 
+<img width="1440" alt="Screen Shot 2023-01-21 at 10 15 38 AM" src="https://user-images.githubusercontent.com/120864279/213877384-e50a10ef-513a-4605-9821-f802550b4819.png">
 
+<p>
+
+Updating the priority level, SLA, and whom the ticket is assigned too. 
+
+<p>
+
+<img width="1440" alt="Screen Shot 2023-01-21 at 10 17 09 AM" src="https://user-images.githubusercontent.com/120864279/213877404-2b61429a-5225-4a99-88ce-758ca49378d7.png">
+
+<p>
+
+After updating information this is the way the ticket looks.
 
 <p>
 <p>
