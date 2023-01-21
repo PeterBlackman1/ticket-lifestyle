@@ -134,6 +134,12 @@ Updating the priority level, SLA, and whom the ticket is assigned too.
 After updating information this is the way the ticket looks.
 
 <p>
+  
+<img width="1440" alt="Screen Shot 2023-01-21 at 10 21 38 AM" src="https://user-images.githubusercontent.com/120864279/213877572-edb9c263-e789-4cfb-81e6-28b5668a9417.png">
+
+<p>
+
+Logged into system admin account to work on ticket.
 <p>
 
 </p>
